@@ -42,7 +42,7 @@ To run Floppy Fish, you need:
 If you prefer to run the game from source code:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/FloppyFish.git
+   git clone https://github.com/raeganvr/FloppyFish.git
 2. Navigate to the project folder and compile all .java files:
     ```bash
     javac *.java

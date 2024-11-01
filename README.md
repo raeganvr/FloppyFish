@@ -2,7 +2,9 @@
 
 Floppy Fish is a high school project inspired by the classic Flappy Bird game, developed in Java. Set in an underwater world, players control a fish navigating through obstacles like seaweed. With a scrolling background and aquatic-themed elements, Floppy Fish offers a simple but addicting gameplay experience.
 
-![Image](https://github.com/user-attachments/assets/8db1ec52-1c98-438b-86d5-278b5a621af8)
+<div align="center">
+    <img width="400" alt="image" src="https://github.com/user-attachments/assets/8db1ec52-1c98-438b-86d5-278b5a621af8">
+</div>
 
 ## How It's Made
 **Tech used:** Java
